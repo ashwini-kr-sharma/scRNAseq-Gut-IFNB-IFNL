@@ -2,7 +2,7 @@
 
 ## Experimental design
 
-![experimental design](/Hypoxia_ExpDesign.png)
+![experimental design](/ExpDesign_scRNAseq-Gut-IFNB-IFNL.png)
 
 ## Methodology
 
