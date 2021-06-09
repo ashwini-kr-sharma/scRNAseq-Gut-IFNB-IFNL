@@ -1,4 +1,5 @@
 # scRNAseq-Gut-IFNB-IFNL
+Ileum and Colon organoids were derived from small intestine biopsies from the same patient (i.e. same genetic background). The organoids were then treated with either IFN-B or IFN-L or both followed by single-cell RNA sequencing.
 
 ## Experimental design
 
